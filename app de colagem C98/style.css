@@ -1,0 +1,35 @@
+body
+{
+    background-color: rgb(232, 55, 140);
+}
+
+h1 
+{
+    font-family: cursive;
+    font-style: italic;
+    font-weight: bold;
+}
+
+h4
+{
+    color: rgb(147, 31, 31);
+}
+
+#camera
+{
+    width: 500px;
+    height: 400px;
+    border: 1px solid;
+}
+
+.coluna
+{
+    display: inline;
+    padding: 10px;
+}
+
+.rodape
+{
+    text-align: center;
+    position: fixed;
+}
